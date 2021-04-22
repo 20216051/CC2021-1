@@ -31,7 +31,9 @@ recall은 실제 TRUE인것중에 TRUE라고 예측한것의 비율, precision�
 ![결과1](https://user-images.githubusercontent.com/83013439/115727686-cd651680-a3be-11eb-9a54-0b47bea96b8d.PNG)
 <br/><br/><br/>
 setosa를 setosa라고 예측한것은 32개 versicolor라고 예측한것은 0개, virginica라고 예측한것은 0개, 평균 손실율은 0.378899, precision, recall 둘다 1 입니다
+<br/><br/><br/>
 versicolor를 setosa라고 예측한것은 0개, versicolor라고 예측한것은 16개, virginica라고 예측한것 4개, 평균 손실율은 0.648152, precision은 88.88%, recall은 80%입니다
+<br/><br/><br/>
 virginica를 setosa라고 예측한것은 0개, versicolor라고 예측한것은 2개, virginica라고 예측한것은 21개, 평균 손실율은 0.592734, precision은 84%, recall은 91.3%입니다
 <br/><br/><br/>
 ![결과2](https://user-images.githubusercontent.com/83013439/115727737-d950d880-a3be-11eb-875b-899d46098422.PNG)
