@@ -9,7 +9,7 @@ Azure Machine learning studio에서 Iris 데이터셋을 학습하고 테스트�
 <br/><br/><br/>
 
 <br/><br/><br/>
-데이터셋
+데이터셋 (출처 : https://archive.ics.uci.edu/ml/datasets/iris)
 <br/><br/><br/>
 ![데이터셋](https://user-images.githubusercontent.com/83013439/115728386-70b62b80-a3bf-11eb-8a94-8a8c1074029f.PNG)
 <br/><br/><br/>
